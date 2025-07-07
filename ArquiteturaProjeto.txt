@@ -1,0 +1,9 @@
+4. 🧹 Organize o conteúdo
+Agora mova os arquivos para as camadas corretas:
+
+Camada (Projeto)	Conteúdo típico
+IngaTasks.Api	Controllers, Program.cs, configuração Swagger, autenticação etc
+IngaTasks.Application	UseCases, DTOs, interfaces de serviços, validações de negócio
+IngaTasks.Domain	Entidades (ex: Task, Projeto), Enums, Interfaces (IRepository etc)
+IngaTasks.Infrastructure	Implementações (ex: Repositories com EF, contexto do banco)
+
