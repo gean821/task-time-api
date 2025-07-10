@@ -1,3 +1,53 @@
-vs/
+# Build Folders
 bin/
 obj/
+
+# Visual Studio workspace files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider files
+.idea/
+
+# Logs
+*.log
+
+# Dotnet publish folder
+publish/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Rider specific
+.idea/
+
+# Resharper
+_ReSharper*/
+
+# DotCover
+*.dotCover
+
+# Azure Pipelines
+*.azure-pipelines.yml
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Ignore local secrets file (if used)
+secrets.json

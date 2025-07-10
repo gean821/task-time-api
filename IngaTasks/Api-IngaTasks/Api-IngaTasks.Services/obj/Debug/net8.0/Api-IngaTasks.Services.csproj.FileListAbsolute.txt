@@ -1,6 +1,0 @@
-C:\ESTUDO\CSharp\task-time-api\IngaTasks\Api-IngaTasks\Api-IngaTasks.Services\obj\Debug\net8.0\Api-IngaTasks.Services.csproj.AssemblyReference.cache
-C:\ESTUDO\CSharp\task-time-api\IngaTasks\Api-IngaTasks\Api-IngaTasks.Services\obj\Debug\net8.0\Api-IngaTasks.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\ESTUDO\CSharp\task-time-api\IngaTasks\Api-IngaTasks\Api-IngaTasks.Services\obj\Debug\net8.0\Api-IngaTasks.Services.AssemblyInfoInputs.cache
-C:\ESTUDO\CSharp\task-time-api\IngaTasks\Api-IngaTasks\Api-IngaTasks.Services\obj\Debug\net8.0\Api-IngaTasks.Services.AssemblyInfo.cs
-C:\ESTUDO\CSharp\task-time-api\IngaTasks\Api-IngaTasks\Api-IngaTasks.Services\obj\Debug\net8.0\Api-IngaTasks.Services.csproj.CoreCompileInputs.cache
-C:\ESTUDO\CSharp\task-time-api\IngaTasks\Api-IngaTasks\Api-IngaTasks.Services\obj\Debug\net8.0\Api-IngaTasks.Services.sourcelink.json
